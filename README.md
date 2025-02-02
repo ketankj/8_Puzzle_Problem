@@ -44,7 +44,7 @@ Run the script to solve the 8-puzzle problem using IDS or A*:
 python puzzle_solver.py
 
 ## Limitations
-⚠ Fixed Depth Limit in IDS – IDS uses a maximum depth limit of 20, which may restrict deeper solutions.
+⚠ Fixed Depth Limit in IDS – IDS uses a maximum depth limit of 20, which may restrict deeper solutions.  
 ⚠ Heuristic Dependency in A* – The misplaced tile heuristic is simple and may not always provide an accurate estimate.
 ⚠ Memory Usage – A* requires more memory to manage the priority queue for optimal node selection.
 
